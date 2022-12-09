@@ -13,7 +13,7 @@
   + pull the project and run the file OpenGLMeshLoader.sln .
   
 ### Technologies
-  + C++ (openGL).
+  + C and C++ (openGL).
  
  
   
